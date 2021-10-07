@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farhat Ghayth
-- 👀 I’m interested in  web development and artificial intelligence
+- 👀 I’m interested in  web development and artificial intelligence                                                                                                            
 -🌱 I am a student at the Tunisian National School of Computer Sciences
 -  💞️ I look forward to collaborating to further develop my skills
 - 📫 You can contact me at ghayth.farhat@ensi-uma.tn
